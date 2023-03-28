@@ -1,4 +1,2 @@
-# OLED_avoid_burnin
-A python script that moves visible windows by a small random amount of pixels (from -1 to +1).
+# A python script that randomly moves visible windows on screen to mitigate OLED burn-in issues
 
-The purpose is to mitigate burn-in issues on OLED screens
